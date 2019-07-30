@@ -40,6 +40,9 @@ public class MainActivity extends AppCompatActivity {
         toast.setDuration(Toast.LENGTH_LONG);
         toast.setView(layout);
         toast.show();
+        
+        //im from github
+
     }
 
 }
